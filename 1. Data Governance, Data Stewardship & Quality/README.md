@@ -14,7 +14,7 @@ Here I present operational frameworks, governance models, cataloging practices, 
 
 ## 🚀 Projects & Practical Frameworks / Projetos e Frameworks Práticos
 
-### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
+### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
 
 > **Focus:** *Data Governance, Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
 
@@ -44,4 +44,3 @@ Framework developed to demonstrate operational governance, data quality, and cus
 ---
 
 [⬅️ Back to Central Hub](../)
-
