@@ -18,9 +18,6 @@ Here I show how technical infrastructure controls — such as **Least Privilege,
 * ☁️ **[Identity Governance & Access Control Framework (IAM/GRC) — Fintech Global](https://github.com/igor-it-portfolio/projeto-ztig-fintech)**  
   *Focus:* Governança de Identidade e Controle de Acesso baseado em IAM, RBAC, Least Privilege e auditoria para garantir acesso controlado e seguro às bases de dados corporativas.
 
-* ☁️ **[Data Governance & Cloud Foundations](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)**  
-  *Focus:* Gestão de dados sensíveis em nuvem, classificação da informação, controles de acesso e aplicação prática de *Privacy & Governance by Design* (LGPD/GDPR).
-
 ### 🛡️ Cloud Governance & Compliance Automation
 * ☁️ **[Cloud Compliance Sentinel — Continuous Cloud Governance & Monitoring](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)**  
   *Focus:* Plataforma de governança contínua em AWS (IaC + Python), realizando monitoramento de controles de segurança e conformidade alinhados à LGPD e ISO/IEC 27001.
