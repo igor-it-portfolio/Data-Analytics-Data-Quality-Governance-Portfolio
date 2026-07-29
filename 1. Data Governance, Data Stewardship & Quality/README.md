@@ -14,6 +14,18 @@ Here I present operational frameworks, governance models, cataloging practices, 
 
 ## 🚀 Projects & Practical Frameworks / Projetos e Frameworks Práticos
 
+### 📋 [Data Governance Cloud Foundations (Project 1)](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)
+
+> **Focus:** *Data Governance Foundations, Data Quality, Metadata Management, Data Lineage, SQL Audit, and DAMA-DMBOK Operationalization.*
+
+**PT-BR:**  
+Projeto prático desenvolvido para demonstrar a implementação de um Programa de Governança de Dados alinhado ao framework DAMA-DMBOK. Abrange a definição do Modelo Operacional de Governança (Carta da Governança e Matriz RACI para Data Stewards, Owners e Custodians), Catálogo e Dicionário de Metadados Corporativo, Mapeamento de Linhagem de Dados (Data Lineage) e uma suíte completa de scripts SQL para auditoria e monitoramento de Data Quality (completude, validade e unicidade).
+
+**EN:**  
+Practical project developed to demonstrate the implementation of an Enterprise Data Governance Program aligned with the DAMA-DMBOK framework. It covers the definition of the Governance Operating Model (Data Governance Charter and RACI Matrix for Data Stewards, Owners, and Custodians), Corporate Metadata Catalog & Business Glossary, Business Data Lineage mapping, and a comprehensive suite of SQL scripts for Data Quality auditing and monitoring (completeness, validity, and uniqueness).
+
+---
+
 ### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
 
 > **Focus:** *Data Governance, Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
@@ -23,7 +35,6 @@ Framework desenvolvido para demonstrar controles operacionais de governança, qu
 
 **EN:**  
 Framework developed to demonstrate operational governance, data quality, and custody controls for managing critical data assets. It explores immutable data retention (WORM), traceability, lifecycle enforcement, and formal stewardship roles to ensure integrity, accuracy, auditability, and regulatory compliance.
-
 ---
 
 ## 🛠️ Key Governance Domains / Domínios de Atuação
